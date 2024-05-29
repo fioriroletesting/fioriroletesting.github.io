@@ -8,7 +8,7 @@ Role conflicts in SAP Fiori can disrupt operations and pose significant security
 
 Imagine your organization faces frequent issues where users encounter access problems or possess conflicting permissions. Such role conflicts can lead to unauthorized access or hinder users from performing their duties effectively. Addressing these conflicts is essential for smooth and secure operations.
 
-[![](res/role-conflicts.png)](res/role-conflicts.png)
+<!-- [![](res/role-conflicts.png)](res/role-conflicts.png) -->
 
 **Benefits of Resolving Role Conflicts:**
 

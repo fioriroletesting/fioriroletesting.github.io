@@ -8,7 +8,7 @@ Optimizing role configurations in SAP Fiori is essential for maximizing user pro
 
 Imagine your organization operates with numerous roles assigned to different users within SAP Fiori. Over time, these roles can become outdated or misaligned with current business needs. Optimizing these roles ensures that each user has the correct level of access, tailored to their responsibilities.
 
-[![](res/role-optimization.png)](res/role-optimization.png)
+<!-- [![](res/role-optimization.png)](res/role-optimization.png) -->
 
 **Benefits of Role Optimization:**
 

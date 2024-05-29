@@ -8,7 +8,7 @@ Maintaining regulatory compliance in your SAP Fiori environment is crucial for a
 
 In today’s regulatory landscape, businesses must adhere to strict guidelines regarding data access and security. Misaligned user roles can lead to non-compliance, exposing your organization to significant risks. By focusing on compliance through proper role management, you can safeguard your business against these challenges.
 
-[![](res/compliance.png)](res/compliance.png)
+<!-- [![](res/compliance.png)](res/compliance.png) -->
 
 **Benefits of Ensuring Compliance:**
 

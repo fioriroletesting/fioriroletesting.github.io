@@ -8,7 +8,7 @@ Ensuring users have the right roles is essential for both security and efficienc
 
 Picture your organization with numerous roles configured in SAP Fiori. Without validation, some users might have too much access, risking security, while others might be restricted, impacting productivity. A robust role validation process ensures correct permissions for every user.
 
-[![](res/role-validation.png)](res/role-validation.png)
+<!-- [![](res/role-validation.png)](res/role-validation.png) -->
 
 **Benefits of Role Validation:**
 
