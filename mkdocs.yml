@@ -1,0 +1,58 @@
+site_name: Fiori Role Testing
+site_url: https://fioriroletesting.com/
+
+copyright: Copyright &copy; 2024 Nype
+
+theme:
+  name: material
+  custom_dir: overrides
+
+# Explicitly confirm there is awareness of files not in nav
+not_in_nav: |
+  /get-for-free.md
+  /FPS01/*
+
+# Together with --strict flag it allows to crash CI if an error occurs and prevent shipping broken sites
+validation:
+  nav:
+    omitted_files: warn
+    not_found: warn
+    absolute_links: warn  # If needed change to 'relative_to_docs'
+  links:
+    not_found: warn
+    anchors: warn
+    absolute_links: warn  # If needed change to 'relative_to_docs'
+    unrecognized_links: warn
+
+extra:
+  social:
+    - icon: fontawesome/solid/building
+      link: https://npe.cm/?ref=fioriroletesting
+    - icon: fontawesome/brands/github
+      link: https://github.com/fioriroletesting
+    - icon: fontawesome/brands/linkedin-in
+      link: https://www.linkedin.com/company/fiori-tracker/
+    - icon: fontawesome/brands/x-twitter
+      link: https://twitter.com/fioritracker
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/xGNzmej4KE
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+plugins:
+  - search
+  - social:
+      enabled: !ENV [CI, false]
+      # cards_layout_options:
+      #   background_color: "#0d0d72"  # same color as the corner in the logo.png
+
