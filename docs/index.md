@@ -1,9 +1,9 @@
 ---
 title: SAP Fiori Role Testing
-description: Enhance security and efficiency with comprehensive role testing.
+description: Spot untested apps automatically.
 ---
 # Ensure Proper Role Assignment
-Enhance security and efficiency with comprehensive role testing.
+Spot untested apps automatically.
 
 # Addressed Challenges
 
