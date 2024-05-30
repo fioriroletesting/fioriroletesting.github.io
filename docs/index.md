@@ -2,8 +2,11 @@
 title: SAP Fiori Role Testing
 description: Spot untested apps automatically.
 ---
-# Ensure Proper Role Assignment
-Spot untested apps automatically.
+# Spot untested SAP Fiori apps automatically
+
+Minimize repeated issues in role transitions to production system.
+
+[![](res/frt.png)](res/frt.png)
 
 # Addressed Challenges
 
@@ -19,17 +22,6 @@ Spot untested apps automatically.
 - Simulation of user actions to verify permissions in real-time
 - Detailed reporting on testing outcomes and identified issues
 - Support for resolving role-related issues and optimizing configurations
-
-# Trusted by our customers
-
-!!! quote " "
-
-    Fiori Role Testing has been pivotal in securing our SAP environment. By validating user roles, we have significantly reduced unauthorized access incidents and improved our overall compliance posture. The automated testing and detailed reporting provided by the Fiori Role Testing solution have saved us countless hours and resources.
-
-    The tool's ability to simulate user actions has been invaluable in detecting potential role conflicts before they impact our operations. Fiori Role Testing is an essential component of our SAP security strategy.
-
-    **IT Security Manager**<br>
-    **Global financial services company**
 
 # Compatibility
 
