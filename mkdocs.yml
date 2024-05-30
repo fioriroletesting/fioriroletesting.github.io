@@ -30,6 +30,9 @@ extra_css:
   - assets/stylesheets/extra.css
 
 extra:
+  analytics:
+    provider: google
+    property: G-3VJR286HQC
   social:
     - icon: fontawesome/solid/building
       link: https://npe.cm/?ref=fioriroletesting
