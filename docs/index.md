@@ -2,7 +2,7 @@
 title: SAP Fiori Role Testing
 description: Spot untested apps automatically.
 ---
-# Spot untested SAP Fiori apps automatically
+# Spot untested apps automatically
 
 Minimize repeated issues in role transitions to production system.
 
