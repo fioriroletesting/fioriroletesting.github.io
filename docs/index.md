@@ -8,7 +8,7 @@ Minimize repeated issues in role transitions to production system.
 
 [![](res/frt.png)](res/frt.png)
 
-With Fiori Role Testing, you can track role testing ensuring all applications are tested before production deployment. The tool uses field tested components of Fiori App Usage.
+With Fiori Role Testing, you can track role testing ensuring all applications are tested before production deployment. The tool uses field tested [Fiori App Usage.](https://help.fioriappsusage.org)
 
 # Compatibility
 
