@@ -11,6 +11,8 @@ theme:
 
 # Explicitly confirm there is awareness of files not in nav
 not_in_nav: |
+  /contact.md
+  /contact-success.md
   /get-for-free.md
   /FPS01/*
 
