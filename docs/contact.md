@@ -5,7 +5,7 @@ description: Get in touch and let's work together.
 # Contact Form
 
 !!! info
-    Please be explicit about [wanting to get Fiori Role Testing for free](get-for-free.md).
+    Read more about what is needed [to get Fiori Role Testing for free](get-for-free.md).
 
 You can contact <span id="extShowEmail">`Show Hidden E-mail`</span> directly or fill out the form below.
 
