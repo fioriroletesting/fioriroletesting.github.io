@@ -39,10 +39,8 @@ extra:
     provider: google
     property: G-3VJR286HQC
   social:
-    - icon: fontawesome/solid/building
+    - icon: ext/nype-logo
       link: https://npe.cm/?ref=fioriroletesting
-    - icon: fontawesome/brands/github
-      link: https://github.com/fioriroletesting
     - icon: fontawesome/brands/linkedin-in
       link: https://www.linkedin.com/company/fiori-tracker/
     - icon: fontawesome/brands/x-twitter
