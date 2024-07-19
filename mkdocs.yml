@@ -14,7 +14,6 @@ not_in_nav: |
   /contact.md
   /contact-success.md
   /get-for-free.md
-  /FPS01/*
 
 # Together with --strict flag it allows to crash CI if an error occurs and prevent shipping broken sites
 validation:
