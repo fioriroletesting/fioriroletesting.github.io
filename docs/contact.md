@@ -1,13 +1,10 @@
 ---
 title: Contact Us
-description: Get in touch and let's work together.
+description: Get in touch.
 ---
 # Contact Form
 
-!!! info
-    Read more about what is needed [to get Fiori Role Testing for free](get-for-free.md).
-
-You can contact <span id="extShowEmail">`Show Hidden E-mail`</span> directly or fill out the form below.
+Contact us on <span id="extShowEmail">`Show e-mail`</span> or fill out the form below.
 
 <div id="extFormWrapper">
     <form method="POST">
