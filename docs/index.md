@@ -12,9 +12,9 @@ Fiori Role Testing tracks role testing to ensure the team tests all applications
 
 ## Offer
 
-[Get an offer](contact.md){ .md-button .md-button--primary }
+[Get an offer](offer.md){ .md-button .md-button--primary }
 
-[Get it for free](contact.md?free=true){ .md-button .md-button--primary }
+[Get it for free](free-offer.md){ .md-button .md-button--primary }
 
 by allowing us to feature your company name as a Fiori Role Testing customer. 
 
