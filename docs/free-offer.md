@@ -3,8 +3,8 @@ title: Get free offer
 description: Get in touch.
 nype_config:
   js:
-    contact_form: true
-    contact_form_free_subject: 'Fiori Role Testing: Get for free request'
+    contact_form_subject: 'Fiori Role Testing: Get for free request'
+  js_include: contact_form_action_hex contact_form_email_hex
 ---
 # Free Offer Form
 

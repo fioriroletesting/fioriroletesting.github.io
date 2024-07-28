@@ -2,8 +2,7 @@
 title: Contact Us
 description: Get in touch.
 nype_config:
-  js:
-    contact_form: true
+  js_include: contact_form_action_hex contact_form_email_hex
 ---
 # Contact Form
 
