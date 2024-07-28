@@ -1,13 +1,16 @@
 ---
 title: Contact Us
 description: Get in touch.
+nype_config:
+  js:
+    contact_form: true
 ---
 # Contact Form
 
-Contact us on <span id="extShowEmail">`Show e-mail`</span> or fill out the form below.
+Contact us on <span class="nype-code-button nype-show-email">`Show e-mail`</span> or fill out the form below.
 
-<div id="extFormWrapper">
-    <form method="POST">
+<div class="nype-form-wrapper">
+    <form class="nype-form" method="POST">
         <label for="fullname">Full Name:</label>
         <input 
             class="md-input" 
@@ -46,7 +49,6 @@ Contact us on <span id="extShowEmail">`Show e-mail`</span> or fill out the form 
         ></textarea>
         <button 
             class="md-button md-button--primary"
-            id="extSubmitForm"
             type="submit"
         >Submit</button>
     </form>
