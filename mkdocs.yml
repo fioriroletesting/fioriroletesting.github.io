@@ -1,6 +1,11 @@
 site_name: Fiori Role Testing
 site_url: https://fioriroletesting.com/
 
+nav:
+  - Installation: installation.md
+  - Get an offer: offer.md
+  - Get it for free: free-offer.md
+
 copyright: Copyright &copy; 2024 Nype
 
 theme:
@@ -14,9 +19,11 @@ theme:
 
 # Explicitly confirm there is awareness of files not in nav
 not_in_nav: |
+  /index.md
   /contact.md
   /contact-success.md
   /get-for-free.md
+  /installation/*
 
 # Together with --strict flag it allows to crash CI if an error occurs and prevent shipping broken sites
 validation:

@@ -1,6 +1,6 @@
 ---
-title: SAP Fiori Role Testing
-description: Spot untested apps automatically.
+title: Fiori Role Testing
+description: Spot untested SAP Fiori apps automatically.
 ---
 # Spot untested apps automatically
 
@@ -8,7 +8,7 @@ Minimize repeated issues in role transitions to production system.
 
 [![](res/frt.png)](res/frt.png)
 
-Fiori Role Testing tracks role testing to ensure the team tests all applications before production deployment. It uses [Fiori App Usage](https://help.fioriappsusage.org) to log each app's start, confirming it has been tested.
+Fiori Role Testing tracks role testing to ensure the team tests all SAP Fiori applications before production deployment. It uses [Fiori App Usage](https://help.fioriappsusage.org) to log each app's start, confirming it has been tested.
 
 ## Offer
 
