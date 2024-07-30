@@ -1,26 +1,12 @@
 ---
-<<<<<<< HEAD
-title: Get offer
-=======
-title: Contact Us
->>>>>>> 466ebb7... docs: %*
-description: Get in touch.
+title: Offer
+description: Contact for to get an offer
 nype_config:
   js_include: contact_form_action_hex contact_form_email_hex
 ---
-<<<<<<< HEAD
 # Offer Form
 
 Contact us on <span class="nype-code-button nype-show-email">`Show e-mail`</span> or fill out the form below.
-=======
-# Contact Form
-
-<<<<<<<< HEAD:docs/offer.md
-Contact us by filling out the form below.
-========
-Contact us on <span class="nype-code-button nype-show-email">`Show e-mail`</span> or fill out the form below.
->>>>>>>> 466ebb7... docs: %*:docs/contact.md
->>>>>>> 466ebb7... docs: %*
 
 <div class="nype-form-wrapper">
     <form class="nype-form" method="POST">

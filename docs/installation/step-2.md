@@ -8,11 +8,8 @@ From SAP Gui run the transaction **SICF** and choose **Execute**
  
 In the tree of services for path Path: `/default_host/sap/bc/ui5_ui5/sap/`, use right click and choose **Activate** for each of teh following services:
 
-`zftappusagerep`
+`znypeat`
 
-`zfaadmin`
-
-`zftappusageplug` 
 
  [![](res/sicf-activate.png)](res/sicf-activate.png)
 
