@@ -18,7 +18,7 @@ Fiori Role Testing tracks role testing to ensure the team tests all SAP Fiori ap
 
     Comes as a native SAP Fiori app that you can install on any SAP system. 
 
-    [:octicons-arrow-right-24: Deployment options](installation.md)
+    [:octicons-arrow-right-24: Installation](installation.md)
 
 -   :material-clock-fast:{ .lg .middle } __Set up in 1 day__
 
