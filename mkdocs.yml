@@ -88,4 +88,6 @@ plugins:
           remove_comments: true
       cache_safe: true
   - sap_icons
+  - macros:
+      on_error_fail: !ENV [CI, false]
 
