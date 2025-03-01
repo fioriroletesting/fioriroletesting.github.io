@@ -80,14 +80,6 @@ plugins:
       enabled: !ENV [CI, false]
       cards_layout_options:
         background_color: "#0d0d72"  # same color as the corner in the logo.png
-  - minify:
-      enabled: !ENV [CI, false]
-      minify_html: true
-      minify_js: false
-      minify_css: false
-      htmlmin_opts:
-          remove_comments: true
-      cache_safe: true
   - sap_icons
   - macros:
       on_error_fail: !ENV [CI, false]
