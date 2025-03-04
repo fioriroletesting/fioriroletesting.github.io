@@ -6,7 +6,7 @@ nav:
   - Get an offer: offer.md
   - Get it for free: free-offer.md
 
-copyright: Copyright &copy; 2024 Nype
+copyright: Copyright &copy; {year} Nype
 
 theme:
   name: nype
